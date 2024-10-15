@@ -12,3 +12,11 @@ gum = "gum"
 shoe = "shoe"
 song = "spice girls: wannabe"
 body_part = "your ear"
+
+word_1 = glue + fingers
+
+word_2 = pb + teeth
+
+word_3 = song + body_part
+
+print(f'{word_1}, {word_2}, {word_3}')
